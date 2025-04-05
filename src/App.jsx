@@ -3,6 +3,7 @@ import { slide as Menu } from 'react-burger-menu';
 import Home from './components/Home';
 import About from './pages/About';
 import Contact from './pages/contact';
+import Contact from './pages/Contact';
 import Project1 from './Project1/Desktop8';
 import './App.css';
 import './menu.css';
