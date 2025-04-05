@@ -1,0 +1,500 @@
+
+@media (min-width: 1200px) { 
+  .div {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+.desktop8 {
+  background-color: #fff;
+  flex-direction: column;
+  align-items: stretch;
+  display: flex;
+  overflow: hidden;
+}
+.div {
+  border: 1px solid #0000002b;
+  flex-shrink: 0;
+  align-self: center;
+  width: 1300px;
+  max-width: 100%;
+  height: 0;
+}
+.div2 {
+  background-color: #fafdff;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 57px 38px;
+  display: flex;
+}
+@media (width<=991px) {
+  .div2 {
+    max-width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+.div3 {
+  align-self: end;
+  width: 100%;
+  max-width: 1301px;
+}
+@media (width<=991px) {
+  .div3 {
+    max-width: 100%;
+  }
+}
+.div4 {
+  gap: 20px;
+  display: flex;
+}
+@media (width<=991px) {
+  .div4 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+  }
+}
+.column {
+  flex-direction: column;
+  align-items: stretch;
+  width: 43%;
+  margin-left: 0;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column {
+    width: 100%;
+  }
+}
+.div5 {
+  color: #000;
+  flex-direction: column;
+  align-items: stretch;
+  font-family:
+    Inter,
+    -apple-system,
+    Roboto,
+    Helvetica,
+    sans-serif;
+  display: flex;
+}
+@media (width<=991px) {
+  .div5 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.userScenario {
+  align-self: start;
+  font-size: 32px;
+  font-weight: 700;
+}
+.belowisadetaileduserscenarioforatypicalcustomertryingtopurchasesneakersonthedropdateThescenariooutlinesnotonlythestepByStepexperienceofbuyingbutalsoincludesdesignideasintendedtosimplifytheprocessquestionsthattheusermightaskduringthetransactionandfeedbacktofurtherenhancetheappexperience {
+  margin-top: 47px;
+  font-size: 24px;
+  font-weight: 400;
+}
+@media (width<=991px) {
+  .belowisadetaileduserscenarioforatypicalcustomertryingtopurchasesneakersonthedropdateThescenariooutlinesnotonlythestepByStepexperienceofbuyingbutalsoincludesdesignideasintendedtosimplifytheprocessquestionsthattheusermightaskduringthetransactionandfeedbacktofurtherenhancetheappexperience {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.column2 {
+  flex-direction: column;
+  align-items: stretch;
+  width: 57%;
+  margin-left: 20px;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column2 {
+    width: 100%;
+  }
+}
+.img {
+  aspect-ratio: 1.26;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 12px;
+  flex-grow: 1;
+  width: 100%;
+}
+@media (width<=991px) {
+  .img {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div6 {
+  border: 1px solid #0000002b;
+  flex-shrink: 0;
+  width: 1300px;
+  max-width: 100%;
+  height: 1px;
+  margin-top: 85px;
+}
+@media (width<=991px) {
+  .div6 {
+    margin-top: 40px;
+  }
+}
+.div7 {
+  width: 100%;
+  max-width: 1269px;
+  margin-top: 88px;
+}
+@media (width<=991px) {
+  .div7 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div8 {
+  gap: 20px;
+  display: flex;
+}
+@media (width<=991px) {
+  .div8 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+  }
+}
+.column3 {
+  flex-direction: column;
+  align-items: stretch;
+  width: 19%;
+  margin-left: 0;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column3 {
+    width: 100%;
+  }
+}
+.empathyMap {
+  color: #000;
+  font-family:
+    Inter,
+    -apple-system,
+    Roboto,
+    Helvetica,
+    sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+@media (width<=991px) {
+  .empathyMap {
+    margin-top: 40px;
+  }
+}
+.column4 {
+  flex-direction: column;
+  align-items: stretch;
+  width: 81%;
+  margin-left: 20px;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column4 {
+    width: 100%;
+  }
+}
+.forJaketheresellerheexpresseshisexcitementandcuriositybysayingthingslikeTheseshoesareprettyniceandquestioningDidtheseselloutAtthesametimehisinternalthoughtsrevealconcernsaboutthebuyingprocesshewondersIsthisappgoingtobeslowHowwillIbuytheseintimeandDotheyhavethelatestreleaseTheseinsightshighlighttheblendofenthusiasmandanxietyJakeexperiencesemphasizingtheneedforafastreliableandupToDatepurchasingplatform {
+  color: #000;
+  font-family:
+    Inter,
+    -apple-system,
+    Roboto,
+    Helvetica,
+    sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+@media (width<=991px) {
+  .forJaketheresellerheexpresseshisexcitementandcuriositybysayingthingslikeTheseshoesareprettyniceandquestioningDidtheseselloutAtthesametimehisinternalthoughtsrevealconcernsaboutthebuyingprocesshewondersIsthisappgoingtobeslowHowwillIbuytheseintimeandDotheyhavethelatestreleaseTheseinsightshighlighttheblendofenthusiasmandanxietyJakeexperiencesemphasizingtheneedforafastreliableandupToDatepurchasingplatform {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.img2 {
+  aspect-ratio: 3.04;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 1299px;
+  margin-top: 111px;
+}
+@media (width<=991px) {
+  .img2 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div9 {
+  border: 1px solid #0000002b;
+  flex-shrink: 0;
+  align-self: start;
+  width: 1300px;
+  max-width: 100%;
+  height: 1px;
+  margin-top: 105px;
+}
+@media (width<=991px) {
+  .div9 {
+    margin-top: 40px;
+  }
+}
+.div10 {
+  width: 100%;
+  max-width: 1300px;
+  margin-top: 88px;
+}
+@media (width<=991px) {
+  .div10 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div11 {
+  gap: 20px;
+  display: flex;
+}
+@media (width<=991px) {
+  .div11 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+  }
+}
+.column5 {
+  flex-direction: column;
+  align-items: stretch;
+  width: 50%;
+  margin-left: 0;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column5 {
+    width: 100%;
+  }
+}
+.div12 {
+  color: #000;
+  flex-direction: column;
+  align-items: stretch;
+  font-family:
+    Inter,
+    -apple-system,
+    Roboto,
+    Helvetica,
+    sans-serif;
+  display: flex;
+}
+@media (width<=991px) {
+  .div12 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.customerJourneyMap {
+  align-self: start;
+  font-size: 32px;
+  font-weight: 700;
+}
+.ioutlinethesneakerBuyingexperienceacrossfivekeyphasesPostDropDateDropDateShippingBillingPurchaseConfirmationandDayofArrivalInthePostDropDatephasecustomersbrowsesocialmediaandvisittheExclusiveKicksapptocheckupcomingsneakerreleasesTheysignupfornotificationstostayupdatedandprepareforthedropAtthisstageusersfeelexcitedandhopefulbutmayexperienceanxietyduetoslowcheckoutprocessesordifficultyfindingproductlistings {
+  margin-top: 68px;
+  font-size: 24px;
+  font-weight: 400;
+}
+@media (width<=991px) {
+  .ioutlinethesneakerBuyingexperienceacrossfivekeyphasesPostDropDateDropDateShippingBillingPurchaseConfirmationandDayofArrivalInthePostDropDatephasecustomersbrowsesocialmediaandvisittheExclusiveKicksapptocheckupcomingsneakerreleasesTheysignupfornotificationstostayupdatedandprepareforthedropAtthisstageusersfeelexcitedandhopefulbutmayexperienceanxietyduetoslowcheckoutprocessesordifficultyfindingproductlistings {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.column6 {
+  flex-direction: column;
+  align-items: stretch;
+  width: 50%;
+  margin-left: 20px;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column6 {
+    width: 100%;
+  }
+}
+.div13 {
+  background-color: #fff;
+  border-radius: 12px;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: stretch;
+  width: 100%;
+  padding: 16px;
+  display: flex;
+}
+@media (width<=991px) {
+  .div13 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.img3 {
+  aspect-ratio: 1.44;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+}
+@media (width<=991px) {
+  .img3 {
+    max-width: 100%;
+  }
+}
+.div14 {
+  border: 1px solid #0000002b;
+  flex-shrink: 0;
+  width: 1300px;
+  max-width: 100%;
+  height: 1px;
+  margin-top: 124px;
+}
+@media (width<=991px) {
+  .div14 {
+    margin-top: 40px;
+  }
+}
+.div15 {
+  width: 100%;
+  max-width: 1282px;
+  margin-top: 68px;
+}
+@media (width<=991px) {
+  .div15 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div16 {
+  gap: 20px;
+  display: flex;
+}
+@media (width<=991px) {
+  .div16 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+  }
+}
+.column7 {
+  flex-direction: column;
+  align-items: stretch;
+  width: 50%;
+  margin-left: 0;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column7 {
+    width: 100%;
+  }
+}
+.div17 {
+  background-color: #fff;
+  border-radius: 12px;
+  flex-grow: 1;
+  width: 100%;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+@media (width<=991px) {
+  .div17 {
+    max-width: 100%;
+    margin-top: 40px;
+    padding-left: 20px;
+  }
+}
+.img4 {
+  aspect-ratio: 1.39;
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+}
+@media (width<=991px) {
+  .img4 {
+    max-width: 100%;
+  }
+}
+.column8 {
+  flex-direction: column;
+  align-items: stretch;
+  width: 50%;
+  margin-left: 20px;
+  line-height: normal;
+  display: flex;
+}
+@media (width<=991px) {
+  .column8 {
+    width: 100%;
+  }
+}
+.div18 {
+  color: #000;
+  flex-direction: column;
+  align-items: stretch;
+  font-family:
+    Inter,
+    -apple-system,
+    Roboto,
+    Helvetica,
+    sans-serif;
+  display: flex;
+}
+@media (width<=991px) {
+  .div18 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.userflow {
+  align-self: start;
+  font-size: 32px;
+  font-weight: 700;
+}
+.thisUserflowillustratesthestepByStepjourneyausertakestobrowseselectandpurchaseasneakerTheprocessbeginsattheHomescreenwheretheuserdecideswhethertheywantaspecificsneakersuchastheAirJordan4FearoriftheyneedtosearchforitemsIftheyhaveasneakerinmindtheynavigatedirectlytotheproductpageotherwisetheyexploredifferentoptionsbeforemakingadecision {
+  margin-top: 45px;
+  font-size: 24px;
+  font-weight: 400;
+}
+@media (width<=991px) {
+  .thisUserflowillustratesthestepByStepjourneyausertakestobrowseselectandpurchaseasneakerTheprocessbeginsattheHomescreenwheretheuserdecideswhethertheywantaspecificsneakersuchastheAirJordan4FearoriftheyneedtosearchforitemsIftheyhaveasneakerinmindtheynavigatedirectlytotheproductpageotherwisetheyexploredifferentoptionsbeforemakingadecision {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div19 {
+  border: 1px solid #0000002b;
+  flex-shrink: 0;
+  width: 1300px;
+  max-width: 100%;
+  height: 1px;
+  margin-top: 98px;
+}
+@media (width<=991px) {
+  .div19 {
+    margin-top: 40px;
+  }
+}

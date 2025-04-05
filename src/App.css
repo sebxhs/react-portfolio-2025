@@ -1,0 +1,29 @@
+
+#hamburgermenu{
+ 
+ z-index:  1;
+ }
+
+#outer-container{
+ 
+  z-index:-5;
+ }
+
+.bm-burger-button {
+  opacity: 0;
+ }
+
+.Bg  {
+  
+  background-color: rgb(178, 216, 238);
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+}
+
+ @media (max-width: 1500px) { 
+
+  .bm-burger-button {
+    opacity: 1;
+   }
+ }
