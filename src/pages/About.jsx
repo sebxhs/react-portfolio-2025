@@ -5,8 +5,6 @@ import Footer from "../components/Footer";
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import aboutimage from "../Images/Portaboutimage.png"
 import logoblack from "../Images/blackportlogo.png"
-import linkedin from "../Images/Linkedinblack.png"
-import email from "../Images/EmailBlack.png"
 
 // Profile section with image and introduction
 const ProfileSection = () => {
